@@ -4,11 +4,14 @@
 - 🌱 Estudando HTML, CSS, JavaScript, ReactJS
 - 😄 Pronouns: ele/dele
 
+##
+
+### Minha atividade:
 <a href="https://https://github.com/KauanClau">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauanclau&theme=tokyonight&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=kauanclau&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanclau&theme=tokyonight&layout=compact&langs_count=8&card_width=280" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanclau&theme=tokyonight&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 <div style="display: inline_block"><br>
