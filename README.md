@@ -1,6 +1,6 @@
 ## Eai! Eu sou o Kauan Claudino 👋
 
-- 🔭 Hoje trabalho como Assistente de Suporte
+- 🔭 Hoje trabalho com Digitalização de documentos e gestão de dados.
 - 🌱 Estudando HTML, CSS, JavaScript, ReactJS
 - 😄 Pronouns: ele/dele
 
